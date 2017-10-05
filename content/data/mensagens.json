@@ -1,0 +1,115 @@
+{
+	"mensagens": [
+		 { "conteudo": "Sim, o Catatau te ama!", "tipo": "Texto" }
+		,{ "conteudo": "Eu andei errado, eu pisei na bola! Mas a gente aprende, a vida é uma escola! Troquei quem mais amava por uma ilusão. Não é assim que se acaba uma grande paixão! (Fêzinho)", "tipo": "Texto" }
+		,{ "conteudo": "Essa hora... Será que ainda dá tempo de começar um novo assunto?", "tipo": "Texto" }
+		,{ "conteudo": "Você veio trabalhar hoje com vontade do que?", "tipo": "Texto" }
+		,{ "conteudo": "Isso são... peanuts!", "tipo": "Texto" }
+		,{ "conteudo": "Não confunda nunca uma cara de \"Preciso muito ir no banheiro\" com \"Não sei o que quero pra minha vida!\"", "tipo": "Texto" }
+		,{ "conteudo": "A vida é uma grande sacanagem!", "tipo": "Texto" }
+		,{ "conteudo": "Qual é o contrário de volátil? Vem cá, sobrinho!", "tipo": "Texto" }
+		,{ "conteudo": "Tava lá no Google, avistei uma palavra no grau!", "tipo": "Texto" }
+		,{ "conteudo": "Ninguém pode ter tudo... só o Wagner!", "tipo": "Texto" }
+		,{ "conteudo": "Nossa, será que ele realmente é muito bonito pra mim? FRANCO, VOLTA AQUI!", "tipo": "Texto" }
+		,{ "conteudo": "Best in class? No brainer? Out of the blue? Text message? Big Picture? Bottom Neck? Time to market? Shit happens? É o que? É a mãe de quem?", "tipo": "Texto" }
+		,{ "conteudo": "O amor sempre vence! Mas só até o dia 13/01/2015! Promoção esgotada!", "tipo": "Texto" }
+		,{ "conteudo": "Muito bom trabalho (tapinha nas costas)!", "tipo": "Texto" }
+		,{ "conteudo": "Olá, disco voador!", "tipo": "Texto" }
+		,{ "conteudo": "Lead é lead!", "tipo": "Texto" }
+		,{ "conteudo": "He's gay -> -> ->", "tipo": "Texto" }
+		,{ "conteudo": "Nunca confie no GA!", "tipo": "Texto" }
+		,{ "conteudo": "Vamo batê um papo cabeça? (não é o que você está pensando)", "tipo": "Texto" }
+		,{ "conteudo": "Hummm... Almoço com o Fêzinho! Acho que ele vai limpar os pratos! E lamber os beiços! Eita homem bonito!", "tipo": "Texto" }
+		,{ "conteudo": "Tá do seu gosto?", "tipo": "Texto" }
+		,{ "conteudo": "O pessoal do B.I. tá careca de saber disso!", "tipo": "Texto" }
+		,{ "conteudo": "Isso sai na urina!", "tipo": "Texto" }
+		,{ "conteudo": "Traz lá pra mim então do jeito que você gosta!", "tipo": "Texto" }
+		,{ "conteudo": "Ela fez a fila subir! A fila subir! A fila subir!", "tipo": "Texto" }
+		,{ "conteudo": "14-23-54-33-02-54", "tipo": "Texto" }
+		,{ "conteudo": "Vamolatomaumalanobáaa! Vamola!", "tipo": "Texto" }
+		,{ "conteudo": "Inhaíiii!!", "tipo": "Texto" }
+		,{ "conteudo": "Estupendo! Sublime!", "tipo": "Texto" }
+		,{ "conteudo": "Pela web a fora eu vou bem sozinha, levar esses leads para a vendinha!", "tipo": "Texto" }
+		,{ "conteudo": "Traz lá pra mim vei!", "tipo": "Texto" }
+		,{ "conteudo": "Chinchila?", "tipo": "Texto" }
+		,{ "conteudo": "Ainda bem que o André Marques fez o Mocotó!", "tipo": "Texto" }
+		,{ "conteudo": "Desapega, desapega! ", "tipo": "Texto" }
+		,{ "conteudo": "Isso aí? Os BI já dão pronto!", "tipo": "Texto" }
+		,{ "conteudo": "Salário fixo é fixo! (C.r.e.m.a.)", "tipo": "Texto" }
+		,{ "conteudo": "Amor (R.I.P.)", "tipo": "Texto" }
+		,{ "conteudo": "Crema (R.I.P.)", "tipo": "Texto" }
+		,{ "conteudo": "\"Se é para ser um Minion quero ser o roxo porque ele tem cabelo\" (Fernandes, Rodrigo)", "tipo": "Texto" }
+		,{ "conteudo": "\"Prefiro ser um Minion roxo porque ele sabe fazer nascer cabelo na boca\" (Minion da cabeça roxa)", "tipo": "Texto" }
+		,{ "conteudo": "Primeiramente, bom dia! (R.I.P.)", "tipo": "Texto" }
+		,{ "conteudo": "Porco do Mato evoluído para nível 5", "tipo": "Texto" }
+		,{ "conteudo": "Esses LEADS MARAVILHOSOS que SAEM CONVERTENDO ALUCINADOS", "tipo": "Texto" }
+		,{ "conteudo": "Já que tá lá, que lateje!", "tipo": "Texto" }
+		,{ "conteudo": "Chicoti! Sente o poder do meu chicoti! Chicoti! Chicoti! Ou melhor, da minha arma!", "tipo": "Texto" }
+		,{ "conteudo": "Trago cabelo na sua boca em 24 horas! Ou seu dinheiro de volta!", "tipo": "Texto" }
+		,{ "conteudo": "Elas gostam de flores da rua (Gato, Fê)", "tipo": "Texto" }
+		,{ "conteudo": "She's like wind... from Cotia (Gato Fê feat Patrick Swayze)", "tipo": "Texto" }
+		,{ "conteudo": "Não importa o tamanho da carreta e sim a qualidade da manobra! (Bino)", "tipo": "Texto" }
+		,{ "conteudo": "Ah, umachuvinhanascostas!", "tipo": "Texto" }
+		,{ "conteudo": "Nessecalorcomosuaabunda né? :)", "tipo": "Texto" }
+		,{ "conteudo": "(ENEM-2016) Que tipo de mulher te define melhor? A) Mulher pernilongo B) Mulher Zika C) Mulher Chicungunha", "tipo": "Texto" }
+		,{ "conteudo": "O amor vacila, mas sempre vence! E todos nós sabemos disso! (since 22/02/2016)", "tipo": "Texto" }
+		,{ "conteudo": "A vida é feita de escolhas. Eu escolhi meter o louco!", "tipo": "Texto" }
+		,{ "conteudo": "Quem comeu, comeu, quem não comeu não come mais!", "tipo": "Texto" }
+		,{ "conteudo": "O que o cachorro falou pra cachorra em frente a farmácia? Merthi-ou-late?", "tipo": "Texto" }
+		,{ "conteudo": "O que o ET veio fazer aqui em São Paulo? Foi visitar o ti-ETê", "tipo": "Texto" }
+		,{ "conteudo": "Essa é mais véia que cagar 'gachado!", "tipo": "Texto" }
+		,{ "conteudo": "O que o passarinho falou pra passarinha na árvore? Quer danoninho?", "tipo": "Texto" }
+		,{ "conteudo": "E se chover banana? Você planta bananeira?", "tipo": "Texto" }
+		,{ "conteudo": "#vaicaraicarai #vaidabomnao", "tipo": "Texto" }
+		,{ "conteudo": "[...] E nessa loucura de dizer que não te quero... Vou negando as aparências, disfarçando as evidências", "tipo": "Texto" }
+		,{ "conteudo": "Ela chegou tarde ontem? Mudou os horários? Tem longas saídas para coisas rápidas? Fique tranquilo! Só as dos outros são danadas, as nossas não!", "tipo": "Texto" }
+		,{ "conteudo": "Quando digo que deixei de te amar, é porque lhe quero!", "tipo": "Texto" }
+		,{ "conteudo": "Prazer! Pão (wagner) delícia!", "tipo": "Texto" }
+		,{ "conteudo": "Você fez um double-check?", "tipo": "Texto" }
+		,{ "conteudo": "Só o Fê Gato e o Leonardo sabem falar de amor!", "tipo": "Texto" }
+		,{ "conteudo": "Leo (o homem que não tinha um nome completo) - R.I.P", "tipo": "Texto" }
+		,{ "conteudo": "HODOR! HODOR! HODOR!- R.I.P.", "tipo": "Texto" }
+		,{ "conteudo": "Tesourito! - R.I.P.", "tipo": "Texto" }
+		,{ "conteudo": "Qual cruzamento de um quero-quero com um pica-pau?", "tipo": "Texto" }
+		,{ "conteudo": "Eu sou a noiva, mas não estou sentindo prazer!", "tipo": "Texto" }
+		,{ "conteudo": "Um sábio caminhava pela praia e percebeu que um pássaro tentava erguer uma pedra bem pesada. Ele o observou durante horas, sem que o mesmo obtivesse êxito. Vendo todo aquele sacrifício, o sábio indagou ao pássaro: Oh nobre pássaro! Porque não desistes desta façanha e tentas erguer algo mais leve? O nobre pássaro olhou para o velho sábio e com ternura respondeu: Vá tomar no meio do seu cu! Por acaso isso é da sua conta, velho viado? E assim aprendemos mais uma lição: Não devemos nos meter na vida de ninguém.", "tipo": "Texto" }
+		,{ "conteudo": "O importante é sentir prazer. Não importa por onde.", "tipo": "Texto" }
+		,{ "conteudo": "Pirulito, banana ou sarsicha... Muié gosta é de dinhero, quem gosta de piru é bicha! (Hermes e Renato)", "tipo": "Texto" }
+		,{ "conteudo": "O que é \"(h)iberná\"? É o Bernardo da Apple!", "tipo": "Texto" }
+		,{ "conteudo": "Eu já conhecia esse “negão” de outras “pegações” [...], mas o que me fazia lembrar dele era o relato de um colega de trabalho, considerado bonito por estar dentro dos padrões de beleza nacional – ser um “moreno jambo”, no degradê de cores da Bahia, ter 1,90m, 27 anos e um sorriso avassalador.", "tipo": "Texto" }
+		,{ "conteudo": "Só me dá a maçã, que o amor eu já tenho!", "tipo": "Texto" }
+		,{ "conteudo": "Qual é o contrário de paixão? Mãe teto!", "tipo": "Texto" }
+		,{ "conteudo": "Posso pedir lagosta?", "tipo": "Texto" }
+		,{ "conteudo": "Parece grande, mas não é!  (Lopes, Rodrigo)", "tipo": "Texto" }
+		,{ "conteudo": "http://www.movieforkids.it/wp-content/uploads/2013/05/minions-viola-grande-wpcf_400x225.jpg", "tipo": "Imagem" }
+		,{ "conteudo": "O treinamento foi bom, teve até pirulito!", "tipo": "Texto" }
+		,{ "conteudo": "Posso comer tranquila. Lá em casa tem uma esteira, chamada Felipe!", "tipo": "Texto" }
+		,{ "conteudo": "<iframe width=\"420\" height=\"315\" src=\"https://www.youtube.com/embed/fwetxLba5C4?rel=0&amp;controls=0&amp;showinfo=0;autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>", "tipo": "HtmlCode" }
+		,{ "conteudo": "<h1>Esses negros maravilhoooosos</h1><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/n-HbPWoFYIA?rel=0&amp;controls=0&amp;showinfo=0;autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>", "tipo": "HtmlCode" }
+		,{ "conteudo": "<h1>Um dia comum em Conchas</h1><iframe width=\"420\" height=\"315\" src=\"https://www.youtube.com/embed/HzWRj8vWa8I?rel=0&amp;controls=0&amp;showinfo=0;autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>", "tipo": "HtmlCode" }
+		,{ "conteudo": "<h1>Quando o capiroto puxa pra trás</h1><iframe width=\"420\" height=\"315\" src=\"https://www.youtube.com/embed/2dLLci0RWkA?rel=0&amp;controls=0&amp;showinfo=0;autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>", "tipo": "HtmlCode" }
+		,{ "conteudo": "Ao bicho vino!", "tipo": "Texto" }
+		,{ "conteudo": "<h1>Bêbado vs Ladeira</h1><iframe width=\"420\" height=\"315\" src=\"https://www.youtube.com/embed/1_x_UykXTdM?rel=0&amp;controls=0&amp;showinfo=0;autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>", "tipo": "HtmlCode" }
+		,{ "conteudo": "Seu corpo, suas regras!", "tipo": "Texto" }
+		,{ "conteudo": "<h1>Vamo dançá!</h1><iframe width=\"420\" height=\"315\" src=\"https://www.youtube.com/embed/5UMDeOlVAJs?rel=0&amp;controls=0&amp;showinfo=0;autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>", "tipo": "HtmlCode" }
+		,{ "conteudo": "https://flavioaf.files.wordpress.com/2011/09/092111_0133_conceitosde1.jpg?w=650", "tipo": "Imagem" }
+		,{ "conteudo": "Nossa, eu acho que é grande mesmo! (Yabuki, Elisa)", "tipo": "Texto" }
+		,{ "conteudo": "Já tinha tomado umas. Já me sentia justiceiro! (Rodrigues, Franco)", "tipo": "Texto" }
+		,{ "conteudo": "Qual é a comida que liga e desliga? O strogonoff!", "tipo": "Texto" }
+		,{ "conteudo": "Quem tá com a ruela do Eno?", "tipo": "Texto" }
+		,{ "conteudo": "Como pode umbu ser tão gostoso?", "tipo": "Texto" }
+		,{ "conteudo": "Do Japão para o Brasil<br/>Okuta veio morar<br/>Japonês não conhece ninguém<br/>Japonês tá querendo dançar<br/>Foi direto para o bailão <br/>dançar vanerão e arrastapé<br/><b>bem cheiroso e com boa intenção</b><br/>Okuta querendo mulher<br/>e no meio do salao<br/>Okuta apertado<br/>e naquele empura empura<br/>Okuta apaixonado<br/>e no mexe daqui e de lá<br/>Okuta pra lá e pra cá<br/>no esfrega esfrega semparar<br/>Okuta querendo dançar<br/><b>Okuta suado</b><br/><b>Okuta cheiroso</b> <br/>Okuta contente <br/>Okuta orgulhoso <br/>Okuta <b>piscando</b> para a mulherada<br/>Okuta querendo arrumar namorada<br/> <iframe style=\"visibility:hidden;\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/sHaRyxCYPvM?rel=0&amp;controls=0&amp;showinfo=0;autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>", "tipo": "HtmlCode" }
+		,{ "conteudo": "<h1>Depoimento sobre o match de Guids do GA</h1><iframe width=\"420\" height=\"315\" src=\"https://www.youtube.com/embed/VX3lz5ph8A0?rel=0&amp;controls=0&amp;showinfo=0;autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>", "tipo": "HtmlCode" }
+		,{ "conteudo": "O que a mamãe Noel disse pro papai Noel quando terminaram o relacionamento? Está tudo acabado em trenós!", "tipo": "Texto" }
+		,{ "conteudo": "<h1>Happy Hour</h1><div style=\"width:516px;height:453px;overflow:hidden;position:relative;border:dashed 2px;\"><iframe style=\"position:absolute;top:-310px;left:-68px;bottom:-300px;width:1280px;height:1200px;\" width=\"800\" height=\"515\" src=\"https://www.loveroms.com/play-online/super-nintendo/donkey-kong-country-u-v12-/4869\" frameborder=\"0\" allowfullscreen=\"false\" scrolling=\"no\"></iframe></div>", "tipo": "HtmlCode" }
+		,{ "conteudo": "http://photos1.blogger.com/blogger/202/2773/1600/solving_problems.jpg", "tipo": "Imagem" }
+		,{ "conteudo": "http://www.frasesparaoface.com/wp-content/uploads/2014/05/se-eu-tivesse.jpg", "tipo": "Imagem" }
+		,{ "conteudo": "http://static.frasesparaface.com.br/imagem/v/o/voce-pode-ter-todo-o-dinheiro-do-mundo-mas.jpg", "tipo": "Imagem" }
+		,{ "conteudo": "https://lh5.googleusercontent.com/-D2WNYxhrb_U/V5oUePw5MdI/AAAAAAAAAWw/0E7XhMDzqJEdilLbZ3ULsIm_Z_2qdg-UgCL0B/w500-h381-no/2016-07-28.png", "tipo": "Imagem" }
+		,{ "conteudo": "Ressaca = (bebida x idade²) - (engov + H2O)", "tipo": "Texto" }
+		,{ "conteudo": "<h1>É o que?</h1><iframe width=\"420\" height=\"315\" src=\"https://www.youtube.com/embed/EWacfxaExUg?rel=0&amp;controls=0&amp;showinfo=0;autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>", "tipo": "HtmlCode" }
+		,{ "conteudo": "Ela NÃO fez a cobra subir, a cobra subir, a cobra subir", "tipo": "Texto" }
+		,{ "conteudo": "<h1>O que é o que é</h1><br/>...desce molhando e sobe secando?", "tipo": "HtmlCode" }
+		,{ "conteudo": "Você tem um amigo que tem cabelo de cú de pato?", "tipo": "Texto" }
+	]	
+}

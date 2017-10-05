@@ -1,0 +1,60 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+
+.bg{
+	display: inline-block;
+	position: fixed;
+	width: 100%;
+	height: 70%;
+	min-height: 500px;
+	background: #004551;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.bebe{
+  background: url(../img/bebe.png) no-repeat;
+  width: 546px;
+  height: 695px;
+  position: absolute;
+  left: 10%;
+  top: 2%;
+}
+
+.pergaminho{
+	background: url(../img/pergaminho.png) no-repeat;
+	width: 600px;
+	height: 775px;
+	position: absolute;
+	right: 10%;
+	top: 2%;
+}
+
+.pergaminho .content{
+	text-align: center;
+	margin-top: 50px;
+	padding: 50px;
+  height: 655px;
+	width: 100%;
+	box-sizing: border-box;
+	font-style: italic;
+	font-size: 1.5em;
+}
+.pergaminho .content td.aspas:before{
+	content: "";
+	background: url(../img/aspas-left.png) no-repeat;
+	display: inline-block;
+	width: 37px;
+	height: 24px;
+  margin-right: 5px;
+}
+.pergaminho .content td.aspas:after{
+	content: "";
+	background: url(../img/aspas-right.png) no-repeat;
+	display: inline-block;
+	width: 37px;
+	height: 24px;
+  margin-left: 5px;
+}
