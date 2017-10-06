@@ -41,6 +41,7 @@ body{
 }
 
 .bebe{
+  cursor: pointer;
   background: url(../img/bebe.png) no-repeat;
   width: 546px;
   height: 695px;

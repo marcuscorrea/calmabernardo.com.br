@@ -1,21 +1,33 @@
+var mensagens = [];
+
 $(function(){
 	$.getJSON("content/data/mensagens.json", function(result){
-		var qtdItens = result.mensagens.length;
-	  	var index = Math.floor(Math.random() * qtdItens)
+		mensagens = result.mensagens;
+		
+		trocarMensagem();
+	});
 
-	  	switch(result.mensagens[index].tipo){
-	  		case "Texto":
-	  			$('[data-conteudo]').attr('class','aspas');
-	  			$('[data-conteudo]').html(result.mensagens[index].conteudo);
-	  			break;
-  			case "Imagem":
-  				$('[data-conteudo]').attr('class','aspas');
-	  			$('[data-conteudo]').html('<img src="'+ result.mensagens[index].conteudo +'" alt="" />');
-	  			break;
-  			case "HtmlCode":
-  				$('[data-conteudo]').attr('class','');
-	  			$('[data-conteudo]').html(result.mensagens[index].conteudo);
-	  			break;
-	  	}
+	$('[data-bebe]').on('click', function(){
+		trocarMensagem();
 	});
 });
+
+function trocarMensagem(){
+	var qtdItens = mensagens.length;
+  	var index = Math.floor(Math.random() * qtdItens)
+
+  	switch(mensagens[index].tipo){
+  		case "Texto":
+  			$('[data-conteudo]').attr('class','aspas');
+  			$('[data-conteudo]').html(mensagens[index].conteudo);
+  			break;
+		case "Imagem":
+			$('[data-conteudo]').attr('class','aspas');
+  			$('[data-conteudo]').html('<img src="'+ mensagens[index].conteudo +'" alt="" />');
+  			break;
+		case "HtmlCode":
+			$('[data-conteudo]').attr('class','');
+  			$('[data-conteudo]').html(mensagens[index].conteudo);
+  			break;
+  	}
+}
