@@ -86,7 +86,7 @@ body{
   margin-left: 5px;
 }
 
-@media screen and (min-width: 480px) {
+@media (max-device-width: 800px) {
 	.bebe{
 		left: -10%;
 	}
